@@ -12,14 +12,14 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Mi graduación | Prim. Lic. Benito Juárez",
+    "pageTitle": "Telesecundaria | Ricardo Flores M.",
     "ogTitle": "",
-    "ogDescription": "Tenemos el honor de invitarle a la\nceremonia de Graduación"
+    "ogDescription": "Tiene el honor de invitarle a la ceremonia oficial de entrega de documentos. \nGeneración 2023 – 2026"
   },
   "event": {
-    "label": "Escuela Primaria",
-    "celebrantName": "Lic. Benito Juárez",
-    "eventDate": "2026-07-14T08:30",
+    "label": "Telesecundaria",
+    "celebrantName": "Ricardo Flores M.",
+    "eventDate": "2026-07-14T09:30",
     "eventEnd": "2026-07-14T13:00",
     "timeZone": "America/Mexico_City",
     "eventLocation": "---",
@@ -34,8 +34,8 @@
     "text": "#fffaf3",
     "muted": "#ffffff",
     "bodyFont": "Cormorant Garamond",
-    "scriptFont": "Dancing Script",
-    "displayFont": "Dancing Script"
+    "scriptFont": "Cormorant Garamond",
+    "displayFont": "Cormorant Garamond"
   },
   "images": {
     "hero": "FPrincipal.jpg",
@@ -59,11 +59,11 @@
     "showImage": true
   },
   "family": {
-    "parentsEyebrow": "Directora Escolar",
-    "parentsNamesHtml": "NO<br>&amp;<br>NO",
-    "parentsInviteText": "Tenemos el honor de invitarle a la\nceremonia de Graduación ",
-    "godparentsEyebrow": "Subdirectora escolar",
-    "godparentsNamesHtml": "NO<br>&amp;<br>NO"
+    "parentsEyebrow": "Autoridades Escolares ",
+    "parentsNamesHtml": "<Br>Mtro. Raúl Portillo Rodríguez\n<span class=\"eyebrow\" >Supervisor de la Zona 15FTV0007P</span>\n\n<br>-\n<br>\n\n<br>Mtra. Martha Isabel Toledo Núñez\n<span class=\"eyebrow\" >ATP de la Zona 15FTV0007P</span>\n\n<br>-\n<br>\n\n<br>Sra. Adela  Pérez  Del Ángel\n<span class=\"eyebrow\" >Presidenta del Consejo Participativo Escolar (CPE)</span>\n\n<br>-\n<br>\n\n<br>Sr. José Carmen Vale Galindo\n<span class=\"eyebrow\" >Presidenta de la Asociación de Madres y Padres de Familia (AMyPF)</span>\n\n<br>\n\n",
+    "parentsInviteText": "",
+    "godparentsEyebrow": "AUTORIDADES MUNICIPALES",
+    "godparentsNamesHtml": "<Br>C. Martín Jesús Carvajal Galindo\n<span class=\"eyebrow\" >Delegado de los Reyes Acozac</span>\n\n<br>-\n<br>\n\n<Br>Lic. Lizeth Crespo Aguilar\n<span class=\"eyebrow\" >Presidenta de COPACI de Los Reyes Acozac</span>\n\n<br>-\n<br>\n\n<Br>C. Ma. Alejandra Rivero Fernández\n<span class=\"eyebrow\" >Segunda Delegada de los Reyes Acozac</span>\n\n<br>"
   },
   "ceremony": {
     "title": "Ceremonia",
@@ -71,84 +71,87 @@
     "place": "---",
     "mediaMode": "preview",
     "iconSrc": "cereminia.png",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215245354!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f66.04353500702416!4f10.648578501892814!5f0.7820865974627469",
+    "mapEmbed": "",
     "photoSrc": "",
-    "mapLink": "https://maps.app.goo.gl/aM8sywzDeYyj5qZt5"
+    "mapLink": ""
   },
   "reception": {
-    "title": "Ceremonia Cívica ",
-    "time": "08:30 hrs ",
-    "place": "Escuela Primaria Lic. Benito Juárez",
+    "title": "Ceremonia",
+    "time": "09:30 hrs ",
+    "place": "Telesecundaria Ricardo Flores Magón",
     "mediaMode": "preview",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/JikFdvBFF4saoyc5A",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783476650913!5m2!1ses-419!2smx!6m8!1m7!1sN4edfateJGw-KpAHlswU8Q!2m2!1d19.75922156069625!2d-98.96550410292195!3f22.320799435135278!4f23.452062232022996!5f0.4000000000000002",
+    "mapLink": "https://maps.app.goo.gl/Qm5Ve6NDsekjxgTb7",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783700763547!5m2!1ses-419!2smx!6m8!1m7!1sPGav8Sp6uIezzgwTsVC4rg!2m2!1d19.77796947556327!2d-98.98071201664231!3f80.70312165412622!4f0.7125991864470222!5f0.4000000000000002",
     "photoSrc": ""
   },
   "timeline": {
     "items": [
-
       {
         "time": "",
-        "title": "Ceremonia Cívica y Cambio de Escolta",
-        "desc": "Honremos nuestros símbolos patrios y el relevo de escolta."
+        "title": "Cambio de Escolta",
+        "desc": "Ceremonia de relevo de la escolta escolar."
+      },
+      {
+        "time": "",
+        "title": "Himno Nacional",
+        "desc": "Honores a nuestro lábaro patrio."
       },
       {
         "time": "",
         "title": "Presentación del Presídium",
-        "desc": "Presentación de nuestras autoridades e invitados especiales."
-      },
-            {
-        "time": "",
-        "title": "Bienvenida por nuestra Autoridad Escolar",
-        "desc": "Inicio oficial de nuestra ceremonia de graduación."
+        "desc": "Presentación de las autoridades e invitados de honor."
       },
       {
         "time": "",
-        "title": "Entrada de la Generación | Nacidos para Vencer",
-        "desc": "Recibamos a la generación que hoy culmina esta gran etapa."
+        "title": "Palabras de bienvenida por la directora Mtra. R. Lilia Vázquez Mendoza",
+        "desc": "Mensaje de bienvenida a la comunidad educativa."
       },
       {
         "time": "",
-        "title": "Bailable 4° A | El Gallito",
-        "desc": "Una alegre muestra de nuestras tradiciones mexicanas."
+        "title": "Entrega de Diplomas de Aprovechamiento a Tercer Grado",
+        "desc": "Reconocimiento al esfuerzo y desempeño académico."
       },
       {
         "time": "",
-        "title": "Entrega de Reconocimientos de 1° a 3° Año",
-        "desc": "Reconocimiento al esfuerzo y dedicación de nuestros alumnos."
+        "title": "Palabras de Agradecimiento",
+        "desc": "Mensaje de gratitud en representación de la generación."
       },
       {
         "time": "",
-        "title": "Bailable 5° A | El Colás y La Bamba",
-        "desc": "Disfrutemos este colorido número folclórico."
+        "title": "Entrega de Diplomas de Aprovechamiento a Segundo Grado",
+        "desc": "Reconocimiento a los alumnos destacados."
       },
       {
         "time": "",
-        "title": "Palabras de Despedida de 5° Año",
-        "desc": "Un emotivo mensaje para nuestra generación graduada."
+        "title": "Palabras de despedida",
+        "desc": "Mensaje de cierre dirigido a la comunidad escolar."
       },
       {
         "time": "",
-        "title": "Entrega de Reconocimientos de 4° a 6° Año",
-        "desc": "Reconocimiento a los logros de nuestros estudiantes."
+        "title": "Entrega de Diplomas de Aprovechamiento a Primer Grado",
+        "desc": "Reconocimiento al mérito académico."
       },
       {
         "time": "",
-        "title": "Bailable  3° A | El Son de la Negra",
-        "desc": "Tradición, música y alegría en el escenario."
+        "title": "Entrega de documentos a Terceros años (Último pase de lista)",
+        "desc": "Acto solemne de entrega de documentación y despedida de la generación."
       },
       {
         "time": "",
-        "title": "Último Pase de Lista – 6° A",
-        "desc": "Un momento inolvidable para nuestra generación."
+        "title": "Clausura del ciclo escolar 2025-2026",
+        "desc": "Declaratoria oficial de conclusión del ciclo escolar."
       },
       {
         "time": "",
-        "title": "Último Pase de Lista – 6° B",
-        "desc": "Despedimos con orgullo a nuestros graduados."
+        "title": "Himno al Estado de México",
+        "desc": "Interpretación del Himno al Estado de México."
       },
-
+      {
+        "time": "",
+        "title": "Las golondrinas",
+        "desc": "Melodía tradicional que simboliza la despedida de la generación."
+      }
     ]
   },
   "countdown": {
@@ -196,8 +199,8 @@
   },
   "sections": {
     "story": true,
-    "parents": false,
-    "godparents": false,
+    "parents": true,
+    "godparents": true,
     "ceremony": false,
     "reception": true,
     "timeline": true,
