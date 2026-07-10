@@ -12,13 +12,13 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Primaria | Carlos Pellicer C.",
+    "pageTitle": "Telesecundaria | Ricardo Flores M.",
     "ogTitle": "",
-    "ogDescription": "Tiene el honor de invitarle a la ceremonia oficial de entrega de documentos. \nGeneración 2020 – 2026"
+    "ogDescription": "Tiene el honor de invitarle a la ceremonia oficial de entrega de documentos. \nGeneración 2023 – 2026"
   },
   "event": {
-    "label": "Primaria",
-    "celebrantName": "Carlos Pellicer C.",
+    "label": "Telesecundaria",
+    "celebrantName": "Ricardo Flores M.",
     "eventDate": "2026-07-14T09:30",
     "eventEnd": "2026-07-14T13:00",
     "timeZone": "America/Mexico_City",
@@ -26,16 +26,16 @@
     "rsvpPhone": "111111"
   },
   "theme": {
-    "bgTop": "#28639b",
-    "bgMid": "#0d7ee7",
-    "bgBottom": "#28639b",
+    "bgTop": "#081c3a",
+    "bgMid": "#27639b",
+    "bgBottom": "#081c3a",
     "gold500": "#f2c06f",
     "particleColor": "#fff4cf",
     "text": "#fffaf3",
     "muted": "#ffffff",
     "bodyFont": "Cormorant Garamond",
     "scriptFont": "Cormorant Garamond",
-    "displayFont": "Dancing Script"
+    "displayFont": "Cormorant Garamond"
   },
   "images": {
     "hero": "FPrincipal.jpg",
@@ -59,11 +59,11 @@
     "showImage": true
   },
   "family": {
-    "parentsEyebrow": "",
-    "parentsNamesHtml": "",
+    "parentsEyebrow": "Autoridades Escolares ",
+    "parentsNamesHtml": "<Br>Mtro. Raúl Portillo Rodríguez\n<span class=\"eyebrow\" >Supervisor de la Zona 15FTV0007P</span>\n\n<br>-\n<br>\n\n<br>Mtra. Martha Isabel Toledo Núñez\n<span class=\"eyebrow\" >ATP de la Zona 15FTV0007P</span>\n\n<br>-\n<br>\n\n<br>Sra. Adela  Pérez  Del Ángel\n<span class=\"eyebrow\" >Presidenta del Consejo Participativo Escolar (CPE)</span>\n\n<br>-\n<br>\n\n<br>Sr. José Carmen Vale Galindo\n<span class=\"eyebrow\" >Presidenta de la Asociación de Madres y Padres de Familia (AMyPF)</span>\n\n<br>\n\n",
     "parentsInviteText": "",
-    "godparentsEyebrow": "",
-    "godparentsNamesHtml": ""
+    "godparentsEyebrow": "AUTORIDADES MUNICIPALES",
+    "godparentsNamesHtml": "<Br>C. Martín Jesús Carvajal Galindo\n<span class=\"eyebrow\" >Delegado de los Reyes Acozac</span>\n\n<br>-\n<br>\n\n<Br>Lic. Lizeth Crespo Aguilar\n<span class=\"eyebrow\" >Presidenta de COPACI de Los Reyes Acozac</span>\n\n<br>-\n<br>\n\n<Br>C. Ma. Alejandra Rivero Fernández\n<span class=\"eyebrow\" >Segunda Delegada de los Reyes Acozac</span>\n\n<br>"
   },
   "ceremony": {
     "title": "Ceremonia",
@@ -76,17 +76,83 @@
     "mapLink": ""
   },
   "reception": {
-    "title": "Ceremonia Cívica",
-    "time": "14:00 hrs ",
-    "place": "Primaria Carlos Pellicer Cámara",
+    "title": "Ceremonia",
+    "time": "09:30 hrs ",
+    "place": "Telesecundaria Ricardo Flores Magón",
     "mediaMode": "preview",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/U5ZBEhrsozPsb5797",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783716371243!5m2!1ses-419!2smx!6m8!1m7!1sgcdKLwZTDf7FKCIWpIxyHQ!2m2!1d19.7843192836225!2d-98.98034144754264!3f352.8515701606477!4f-0.504351790877422!5f0.7348278240733721",
+    "mapLink": "https://maps.app.goo.gl/Qm5Ve6NDsekjxgTb7",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783700763547!5m2!1ses-419!2smx!6m8!1m7!1sPGav8Sp6uIezzgwTsVC4rg!2m2!1d19.77796947556327!2d-98.98071201664231!3f80.70312165412622!4f0.7125991864470222!5f0.4000000000000002",
     "photoSrc": ""
   },
   "timeline": {
-    "items": []
+    "items": [
+      {
+        "time": "",
+        "title": "Cambio de Escolta",
+        "desc": "Ceremonia de relevo de la escolta escolar."
+      },
+      {
+        "time": "",
+        "title": "Himno Nacional",
+        "desc": "Honores a nuestro lábaro patrio."
+      },
+      {
+        "time": "",
+        "title": "Presentación del Presídium",
+        "desc": "Presentación de las autoridades e invitados de honor."
+      },
+      {
+        "time": "",
+        "title": "Palabras de bienvenida por la directora Mtra. R. Lilia Vázquez Mendoza",
+        "desc": "Mensaje de bienvenida a la comunidad educativa."
+      },
+      {
+        "time": "",
+        "title": "Entrega de Diplomas de Aprovechamiento a Tercer Grado",
+        "desc": "Reconocimiento al esfuerzo y desempeño académico."
+      },
+      {
+        "time": "",
+        "title": "Palabras de Agradecimiento",
+        "desc": "Mensaje de gratitud en representación de la generación."
+      },
+      {
+        "time": "",
+        "title": "Entrega de Diplomas de Aprovechamiento a Segundo Grado",
+        "desc": "Reconocimiento a los alumnos destacados."
+      },
+      {
+        "time": "",
+        "title": "Palabras de despedida",
+        "desc": "Mensaje de cierre dirigido a la comunidad escolar."
+      },
+      {
+        "time": "",
+        "title": "Entrega de Diplomas de Aprovechamiento a Primer Grado",
+        "desc": "Reconocimiento al mérito académico."
+      },
+      {
+        "time": "",
+        "title": "Entrega de documentos a Terceros años (Último pase de lista)",
+        "desc": "Acto solemne de entrega de documentación y despedida de la generación."
+      },
+      {
+        "time": "",
+        "title": "Clausura del ciclo escolar 2025-2026",
+        "desc": "Declaratoria oficial de conclusión del ciclo escolar."
+      },
+      {
+        "time": "",
+        "title": "Himno al Estado de México",
+        "desc": "Interpretación del Himno al Estado de México."
+      },
+      {
+        "time": "",
+        "title": "Las golondrinas",
+        "desc": "Melodía tradicional que simboliza la despedida de la generación."
+      }
+    ]
   },
   "countdown": {
     "title": "Faltan pocos días",
@@ -133,11 +199,11 @@
   },
   "sections": {
     "story": true,
-    "parents": false,
-    "godparents": false,
+    "parents": true,
+    "godparents": true,
     "ceremony": false,
     "reception": true,
-    "timeline": false,
+    "timeline": true,
     "countdown": true,
     "gallery": false,
     "dress": false,
